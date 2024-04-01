@@ -29,7 +29,7 @@ function dateFunc() {
     el.innerHTML = `<h1>${name} 군대 입대 남은 시간</h1>
       <p><${inYear}-${inMonth}-${inDay}></p>
       <p>${diffDate}일 ${diffHour}시간 ${diffMinute}분 ${diffSecond}초</p>
-      <a type="button" href="/" class="btn btn-outline-dark"><i class="fa-solid fa-house"></i> HOME</a>`;
+      <a type="button" href="index.html" class="btn btn-outline-dark"><i class="fa-solid fa-house"></i> HOME</a>`;
   }
 }
 dateFunc();
