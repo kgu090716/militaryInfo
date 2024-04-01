@@ -16,7 +16,7 @@ export default {
   endMinute: "00", // 전역 분
   endSecond: "00", // 전역 초
 
-  disqusShortName: "militaryinfo", // disqusShortName (응원하기 댓글을 사용하기 위해 작성)
+  disqusShortName: "", // disqusShortName (응원하기 댓글을 사용하기 위해 작성)
 
   footerText: "Made By JiWoon", // footer에 나올 text입력
 }
