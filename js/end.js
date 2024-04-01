@@ -23,7 +23,7 @@ function dateFunc() {
   if(diffHour < 0 || diffMinute < 0 || diffSecond < 0) {
     el.innerHTML = `<h1>${endYear}-${endMonth}-${endDay} 전역!!!</h1>
       <p>수고했어!!!</p>
-      <a type="button" href="/" class="btn btn-outline-dark"><i class="fa-solid fa-house"></i> HOME</a>`;
+      <a type="button" href="index.html" class="btn btn-outline-dark"><i class="fa-solid fa-house"></i> HOME</a>`;
   } else {
     el.innerHTML = `<h1>${name} 군대 전역 남은 시간</h1>
       <p><${endYear}-${endMonth}-${endDay}></p>

@@ -1,5 +1,9 @@
 # -군대 정보 사이트-
 
+## 예시 사이트
+https://kgu090716.github.io/militaryInfo
+(disqus 제외)
+
 ## 용도
 입대일, 전역일이 얼마나 다가왔는지 보여줍니다.
 
